@@ -1,0 +1,14 @@
+C:\Users\Devrim\source\repos\ALARM\ALARM\bin\Debug\ALARM.exe.config
+C:\Users\Devrim\source\repos\ALARM\ALARM\bin\Debug\ALARM.exe
+C:\Users\Devrim\source\repos\ALARM\ALARM\bin\Debug\ALARM.pdb
+C:\Users\Devrim\source\repos\ALARM\ALARM\obj\Debug\ALARM.csprojAssemblyReference.cache
+C:\Users\Devrim\source\repos\ALARM\ALARM\obj\Debug\ALARM.Form1.resources
+C:\Users\Devrim\source\repos\ALARM\ALARM\obj\Debug\ALARM.Properties.Resources.resources
+C:\Users\Devrim\source\repos\ALARM\ALARM\obj\Debug\ALARM.csproj.GenerateResource.cache
+C:\Users\Devrim\source\repos\ALARM\ALARM\obj\Debug\ALARM.exe
+C:\Users\Devrim\source\repos\ALARM\ALARM\obj\Debug\ALARM.pdb
+C:\Users\Devrim\source\repos\ALARM\ALARM\bin\Debug\Interop.WMPLib.dll
+C:\Users\Devrim\source\repos\ALARM\ALARM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Devrim\source\repos\ALARM\ALARM\obj\Debug\Interop.WMPLib.dll
+C:\Users\Devrim\source\repos\ALARM\ALARM\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Devrim\source\repos\ALARM\ALARM\obj\Debug\ALARM.csproj.ResolveComReference.cache
